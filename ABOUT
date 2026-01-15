@@ -1,0 +1,54 @@
+# Intern SQL Training Project
+
+## 📌 Objective
+This project is designed to help interns understand the **SQL environment, syntax structure, and basic data retrieval operations** using MySQL.
+
+---
+
+## 🛠 Tools Used
+- MySQL
+- MySQL Workbench
+- SQL (DDL & DML)
+
+---
+
+## 📚 Concepts Covered
+- Database creation
+- Table creation
+- Data insertion
+- Data retrieval
+- Filtering using WHERE clause
+- Query execution flow
+
+---
+
+## 📂 Project Files
+
+| File Name | Description |
+|---------|-------------|
+| intern_training_db.sql | SQL script containing all queries |
+| README.md | Project documentation |
+
+---
+
+## ▶ How to Run
+1. Open MySQL Workbench
+2. Create a new SQL tab
+3. Copy content from `intern_training_db.sql`
+4. Execute queries sequentially
+
+---
+
+## 🎯 Final Outcome
+After completing this project, the intern understands:
+- SQL database structure
+- Table design
+- INSERT and SELECT queries
+- Filtering data using conditions
+
+---
+
+## 👤 Author
+**Nikhil**  
+B.Tech Undergraduate  
+SQL & Data Analytics Learner
